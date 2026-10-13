@@ -1,0 +1,32 @@
+Nexevon plugins by Studio Pilot
+© 2026 Studio Pilot. All rights reserved.
+
+The Nexevon plugins are licensed, not sold. You may install them and use them
+to make music.
+
+A plugin works while you have an active StudioPilot plan, or if you bought it.
+A plan is checked online: each computer needs to connect at least once every
+14 days. A plugin you bought is for your own use, on your own computers, with
+no time limit.
+
+The music you make with the plugins is yours, and so are the settings saved in
+your songs.
+
+Unless the law allows it regardless of this notice, you may not:
+- copy, share, sell, rent or lend the plugins, or any part of them;
+- share or sell their presets or artwork, or take them out of the plugins to
+  use elsewhere. Using the plugins in your own music is fine;
+- change, patch, repackage or tamper with them, or make anything based on
+  their code;
+- reverse engineer, decompile or disassemble them;
+- get round, switch off or imitate their sign-in or plan checks;
+- let other people use your sign-in or the plugins you bought.
+
+A copy that has been changed to get round these checks is not licensed, and no
+rights come with it.
+
+Some parts of the plugins are other people's software and fonts, used under
+their own licences. Those licences apply to those parts; see the third-party
+notices that come with the plugins.
+
+Questions: danny@studiopilotmusic.com
